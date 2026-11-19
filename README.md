@@ -67,7 +67,7 @@
 | Project | Overview | Tech |
 |---|---|---|
 | [CRM](https://github.com/farhanarshad100/CRM) | CRM interface project with dashboard and business modules | Next.js, React, MUI |
-| [E-commerce React / Next](https://github.com/farhanarshad100/ecommerce-react-next) | E-commerce frontend project | Next.js, React, Tailwind CSS |
+| [E-commerce]([https://github.com/farhanarshad100/ecommerce-react-next](https://github.com/farhanarshad100/mill-it-full-code)) | E-commerce project | Next.js, React, Tailwind CSS |
 | [React](https://github.com/farhanarshad100/React) | React practice and frontend implementation | React, Bootstrap |
 
 ## 🎯 What I Focus On
