@@ -68,7 +68,7 @@
 |---|---|---|
 | [CRM](https://github.com/farhanarshad100/CRM) | CRM interface project with dashboard and business modules | Next.js, React, MUI |
 | [mill-it](https://github.com/farhanarshad100/mill-it-full-code) | E-commerce project | Next.js, React, Tailwind CSS |
-| [React](https://github.com/farhanarshad100/React) | React practice and frontend implementation | React, Bootstrap |
+| [Drishtee-astro](https://github.com/farhanarshad100/drishtee-astro-web-desktop) | React practice and frontend implementation | React, Next.js, tailwind css |
 
 ## 🎯 What I Focus On
 
