@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <strong>Frontend development focus: 2020 – Present</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/farhanarshad100">
     <img src="https://komarev.com/ghpvc/?username=farhanarshad100&style=flat-square&color=blue" alt="Profile views" />
   </a>
@@ -18,6 +22,7 @@
 ## 👨‍💻 About Me
 
 - UI / Frontend Developer with **5+ years of experience**
+- **Professional development focus: 2020–Present**
 - Focused on responsive layouts, reusable components, and clean frontend code
 - Comfortable converting design concepts into responsive web interfaces
 - Currently building and improving projects with React.js and Next.js
